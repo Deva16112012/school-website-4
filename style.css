@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-color: forestgreen;
+}
+img{
+    width: 50%;
+}
+.at span{
+    color: rgb(255, 198, 93);
+}
+.at img{
+    width: 40%;
+}
+.d{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.d i{
+    float: right;
+}
+.e{
+    color:cornflowerblue;
+}
+#k{
+    width: 10%;
+    border-radius: 900px;
+}
+#j{
+    color: blue;
+}
+#n{
+    margin-bottom: 100px;
+    padding-bottom: 100px;
+}
